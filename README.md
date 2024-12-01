@@ -1,4 +1,4 @@
-## Hi there, I'm Maurco 👋
+## Hi there, I'm Mauro 👋
 
 I'm a passionate software developer with a focus on Python. I enjoy building projects that solve real-world problems and constantly improving my skills in Python.
 
